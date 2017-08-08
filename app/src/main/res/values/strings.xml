@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Ponto Certo</string>
+    <string name="google_maps_key">AIzaSyBUQlnTdzr71BysG_9XUo8Sy0jOXfqn5tA</string>
+    <string name="google_maps_key_2">AIzaSyA3y6ph4fE8cKRzAosTgrG-LNX5Ax_uPZc</string>
+    <string name="facebook_app_id">1880182095536762</string>
+    <string name="title_activity_maps">Locais próximos</string>
+
+    <string name="title_activity_welcome">Ponto Certo</string>
+    <string name="next">Próximo</string>
+    <string name="skip">Anterior</string>
+    <string name="start">VAMOS LÁ</string>
+
+    <string name="slide_1_title">Descubra novos lugares!</string>
+    <string name="slide_1_desc">Com o ponto certo você descobre os lugares mais interessantes da cidade!</string>
+
+    <string name="slide_2_title">Conheça novas pessoas</string>
+    <string name="slide_2_desc">Faça novos amigos, curta e divirta-se.</string>
+
+    <string name="slide_3_title">Compartilhe </string>
+    <string name="slide_3_desc">Mostre para todos a sua avaliação do seu local .</string>
+
+    <string name="slide_4_title">World Travel</string>
+    <string name="slide_4_desc">Book tickets of any transportation and travel the world!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Ver novamente</string>
+</resources>

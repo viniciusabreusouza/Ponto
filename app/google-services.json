@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "702826609942",
+    "firebase_url": "https://ponto-162519.firebaseio.com",
+    "project_id": "ponto-162519",
+    "storage_bucket": "ponto-162519.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702826609942:android:2a32683a72c34ec4",
+        "android_client_info": {
+          "package_name": "com.example.viniciussouza.ponto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702826609942-s5ci8lujgoa7ra85srhvg5e55p6e3no4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.viniciussouza.ponto",
+            "certificate_hash": "42d460fbc405b7025e2200edbb06b18d712ec06a"
+          }
+        },
+        {
+          "client_id": "702826609942-jo8k412n68tqsmhq8ic18vnmc6915mii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcOOjKM7LjDUYdHEGm0j6uN4B1T0UnMyw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702826609942-jo8k412n68tqsmhq8ic18vnmc6915mii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

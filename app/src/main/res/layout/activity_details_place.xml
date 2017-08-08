@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#D0D7FC"
+    tools:context="com.example.viniciussouza.ponto.DetailsPlaceActivity">
+
+    <TextView
+        android:id="@+id/textViewName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="37dp"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/textViewAdress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/textViewName"
+        android:layout_below="@+id/textViewName"
+        android:layout_marginTop="81dp"
+        android:text="TextView" />
+
+    <Button
+        android:id="@+id/btnCheckin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textViewAdress"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="58dp"
+        android:text="Realizar Checkin" />
+</RelativeLayout>
